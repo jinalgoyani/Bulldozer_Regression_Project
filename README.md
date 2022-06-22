@@ -17,7 +17,7 @@ Test.csv is the test set, which won't be released until the last week of the com
 3. Evaluation
 The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices. For more on the evaluation check: https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation
 
-Note: Our goal for this project will be to build a machine learning model which minimises the RMSLE.
+**Note: Our goal for this project will be to build a machine learning model which minimises the RMSLE.**
 
 4. Features
 Kaggle provides the data dictionary describing all the features of a dataset. You can view this data dictionary here- https://www.kaggle.com/competitions/bluebook-for-bulldozers/data
